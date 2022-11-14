@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JSItesMastery5A", "JSItesMastery5A\JSItesMastery5A.pyproj", "{A6242DB2-4AC8-4331-ACC4-94F3ADA9421C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6242DB2-4AC8-4331-ACC4-94F3ADA9421C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6242DB2-4AC8-4331-ACC4-94F3ADA9421C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A62F6BEF-E378-49B1-956C-092B3581DC4F}
+	EndGlobalSection
+EndGlobal
